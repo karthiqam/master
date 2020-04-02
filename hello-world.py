@@ -11,3 +11,5 @@ print("Master - Second commit")
 print("Master - Bug fix applied")
 
 print("Feature1 - First commit")
+
+print("Master - Bug fix 1 applied")
